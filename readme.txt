@@ -1,1 +1,1 @@
-It seems that I did my first github repo
+It seems that I did my first repo at github
